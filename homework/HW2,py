@@ -1,0 +1,5 @@
+age = input("age = ")
+surname = input("surname = ")
+name = input("name = ")
+
+print(f"{surname}{" "}{name}{"\n"}{age}")
